@@ -1,0 +1,4 @@
+[2019-06-14 12:33:12] cli-logger.INFO: My logger is now ready [] []
+[2019-06-14 12:33:19] cli-logger.INFO: My logger is now ready [] []
+
+//filter Date excuted using param from  $from $ to
