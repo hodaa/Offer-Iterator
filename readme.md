@@ -2,14 +2,7 @@
 PHP CLI Script which will read JSON based data from
 an specific endpoint via HTTP.
 The script will contain several sub-commands to
-filter and output the loaded data. This commands should be:
-• Find objects by time interval (given start-date and end-date as argu-
-ments to the command)
-• Find objects by price range (given price-from and price-to as argu-
-ments)
-• Find objects by a certain sub-object definition
-All given sub-commands should only output objects, that are in stock (quantity).
-
+filter and output the loaded data.
 
 ### Installation
 - clone repo
