@@ -9,7 +9,7 @@ filter and output the loaded data.
 - run `composer du -o`
 - run `composer install`
 
-###Usage
+### Usage
 
 Type Belows in command line 
 - `php run.php date_filter 2019-03-01T10:00 2019-03-21T19:00`
@@ -17,7 +17,7 @@ Type Belows in command line
 - `php run.php vendor_offers_count <$vendor_id>`
 
 
-###Tools
+### Tools
 - PHP7.2
 - composer
 - phpunit
