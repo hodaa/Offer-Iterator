@@ -9,8 +9,6 @@ use Hoda\Traits\FilterLogger;
 class DateFilterStrategy implements StrategyInterface
 {
     use FilterLogger;
-    private $reader;
-
 
     /**
      * @param string $start_date
